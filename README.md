@@ -1,6 +1,6 @@
 memorial-data
 =============
-
+Original data
 Data from Memorial (http://memo.ru) in machine readable form:
 
 * victims of terror of 1930s in Moscow
